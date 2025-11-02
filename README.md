@@ -30,7 +30,7 @@
   <kbd>Back-End</kbd>
 </div>
       <div align="center" style="display: inline_block"><br>
-        <p align="center" alt="HTML" height="30" width="80">Python</p>
+        <p align="center" alt="HTML" height="30" width="80">Python / Java</p>
       </div>
       
 ## Contato
