@@ -13,7 +13,7 @@
 </div>
 ## Skills
 <div align="center">
-  <kbd>Frontend</kbd>
+  <kbd>Front-end</kbd>
 </div>  
      <div align="center" style="display: inline_block"><br>  
         <img align="center" alt="HTML" height="30" width="80"
@@ -25,7 +25,10 @@
         <img align="center" alt="React" height="30" width="80"
         src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
      </div>
-    
+  <kbd>Back-End</kbd>
+      <div align="center" style="display: inline_block"><br>
+        <p align="center" alt="HTML" height="30" width="80">Python</p>
+      </div>
 ## Contato
 <div align="center">
 <a href = "mailto:jqc955@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
