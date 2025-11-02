@@ -25,7 +25,9 @@
         <img align="center" alt="React" height="30" width="80"
         src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
      </div>
+<div align="center">
   <kbd>Back-End</kbd>
+</div>
       <div align="center" style="display: inline_block"><br>
         <p align="center" alt="HTML" height="30" width="80">Python</p>
       </div>
